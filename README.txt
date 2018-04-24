@@ -1,0 +1,1 @@
+simple calculator just for standard math staff
